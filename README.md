@@ -58,7 +58,7 @@ For instance, notice this property, a ^ b ^ c ^ d = a ^ e where e is the xor sum
 
 starting value: 5</br>
 
-set: {2 6 4 8 3 1 9}</br>
+set: {2 6 4 3 1 9}</br>
 
 5 ^ 2 ^ 6 ^ 4 ^ 3 ^ 1 ^ 9  = 12</br>
 (2 ^ 6 ^ 4 ^ 3 ^ 1 ^ 9) = 11</br>
