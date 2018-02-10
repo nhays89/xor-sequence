@@ -12,7 +12,7 @@ and caching xor sums over a sequence.</br>
 The problem statement requires us to generate a sequence using the xor sum over natural numbers. 
 So, for instance, if we look at numbers 0,1,2,3,4 and 5..the xor sum over these numbers is as follows.
 
-0 ^ 1 = 1 ^ 2 = 3 ^ 3 = 0 ^ 4 = 7 ^ 5 = 2 ...
+0 ^ 1 = 1 ^ 2 = 3 ^ 3 = 0 ^ 4 = 4 ^ 5 = 1 ...
 
 The xor sum over [0-24] is shown in B below.
 
